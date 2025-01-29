@@ -1,2 +1,2 @@
 # Android
-Android Projects that i did in class
+These projects are from Android Kotlin.
